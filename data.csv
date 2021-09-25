@@ -1,14 +1,14 @@
-currency,bid
-dolar amerykañski,3.7669
-dolar australijski,2.6976
-dolar kanadyjski,2.8395
-euro,4.4377
-forint (Wêgry),0.012347
-frank szwajcarski,4.1168
-funt szterling,4.8809
-jen (Japonia),0.035651
-korona czeska,0.1643
-korona duñska,0.5964
-korona norweska,0.4078
-korona szwedzka,0.4227
-SDR (MFW),5.3243
+currency,codebid
+dolar amerykañski,USD,3.9036
+dolar australijski,AUD,2.8276
+dolar kanadyjski,CAD,3.0495
+euro,EUR,4.5792
+forint (Wêgry),HUF,0.01296
+frank szwajcarski,CHF,4.2254
+funt szterling,GBP,5.3343
+jen (Japonia),JPY,0.035709
+korona czeska,CZK,0.1801
+korona duñska,DKK,0.6158
+korona norweska,NOK,0.4504
+korona szwedzka,SEK,0.4504
+SDR (MFW),XDR,5.5477
