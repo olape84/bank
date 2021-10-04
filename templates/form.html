@@ -6,7 +6,7 @@
     </head>
 
     <body>
-
+        <form method="POST" action="/">
         <label for="waluta">wybierz walutę:</label>
         <select name="waluta" id="waluta">
         <option value="dolar amerykański" >dolar amerykański</option>
@@ -24,13 +24,12 @@
         <option value="SDR">SDR</option>
         </select>
 
-<form>
-  <div class="container">
-    <label for="amount"><b>ilość</b></label>
-    <input type="float" placeholder="wpisz ilość waluty" name="ilość" required>
-    <button type="calculate">Przelicz</button>
-    {{wynik}} # to nie działa
+        <div class="container">
+            <label for="amount"><b>ilość</b></label>
+            <input type="text" placeholder="wpisz ilość waluty" name="ilosc" required>
+            <button type="submit">Przelicz</button>
+    {{wynik}} 
   </div>
-
+          </form>
     </body>
 </html>
